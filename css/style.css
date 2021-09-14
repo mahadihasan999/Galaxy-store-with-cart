@@ -4,14 +4,14 @@ body {
 }
 
 .logo{
-  margin-left: 100px;
+  margin-left: 50px;
 }
 .around{
- margin-right: 75px;
+ margin-right:25px;
 }
-.container{
-  margin: 5px;
-  
+.product-all{
+  margin-top: 55px
+
 }
 
 #addToCart-btn{
@@ -82,6 +82,7 @@ h3 .btn{
 }
 .both{
   display: flex;
+  width: 100%;
 
 }
 .fa-star.filled{
@@ -123,7 +124,7 @@ h3 .btn{
     position: fixed;
 
   }
- 
+  
   
 }
 @media only screen and (max-width: 468px) {
